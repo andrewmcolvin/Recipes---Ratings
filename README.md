@@ -1,5 +1,5 @@
 ---
 layout: default
 title: Recipe Analysis
+permalink: /
 ---
-# Recipes---Ratings
